@@ -7,4 +7,4 @@ Source files for the Tuts+ tutorial: [The Holy Grail of CSS Centering](https://w
 
 **Available on Tuts+ September, 2014**
 
-[View the demo](http://tutsplus.github.io/)
+[View the demo](http://tutsplus.github.io/the-holy-grail-of-css-centering/)
